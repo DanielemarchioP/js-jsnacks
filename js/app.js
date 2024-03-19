@@ -119,6 +119,59 @@
 //     }
 
 
+//JSNAK7
+
+// let somma = 0 //num
+// let n = parseInt(prompt('inserisci il numero massimo da stampare')) // num|null
+
+// for(i = 0 ; i < n ; i = i + 2){
+//     somma = i + 2
+//     console.log(somma)
+// }
+
+// snak non risucito
+// let numero = prompt('dammi numero')
+// let num2 = prompt('dammi numero')
+
+// const array = []
+// array[1] = [numero]
+// const prova = []
+//  prova[0] = [num2]
+
+// console.log(array, prova)
+
+
+// snak12
+
+
+// const array = [1,2,3,4,5,6,7,8,9,10]
+// const n = array.length
+// sommaNumeri= 0
+
+// for(i = 0; i < n; i++){
+//     sommaNumeri= array[i] + sommaNumeri
+//     console.log(sommaNumeri)
+// }
+
+// console.log('lo somma dei numeri e : ' , sommaNumeri)
+
+
+
+// snak 13
+
+// const array = []
+// let somma = 0
+
+// for(i = 0 ; i< 10 ; i++){
+//     const num = array.push(prompt('inserisci un numero'))
+//     somma = num + somma
+// }
+
+// console.log ('la media e', somma / array.length)
+// console.log(somma)
+// console.log(array)
+
+
 
 
 
